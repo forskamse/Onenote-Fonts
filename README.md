@@ -5,7 +5,8 @@
 - 进入C:\Windows\Fonts\Calibri，右键“Calibri常规-属性-安全-高级”里将所有者从“TrustedInstaller”改为“Users”（直接输入即可），然后在编辑里将Users的完全控制选上；
 - 打开E:\File\OneNote\Fonts\OneNote.ttf文件安装替换Calibri字体即可。
 ![1](1.jpg)
-<div align = "center"><img weight="100" height="200" src="2.jpg"></div>
+<div align = "center"><img weight="400" height="800" src="2.jpg"></div>
+
 ![3](3.jpg)
 ![4](4.jpg)
 ![5](5.jpg)
