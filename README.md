@@ -16,6 +16,7 @@
 
 ## 提取修改字体
 下载FontCreator并安装打开，进入“文件-打开已安装字体”，选择微软雅黑Regular（或Microsoft YaHei UI），将ttc文件提取为两个ttf文件；然后之后把任意一个拖入软件窗口内，进入“字体-属性-标识符”，先将字系改为Calibri，然后进入自定义，将里面内容全删；最后进入“文件-输出字体-TrueType”，保存。
+
 所有文件可以在本仓库中找到，其中msyh_0.ttf、msyh_1.ttf为微软雅黑字体提取文件，OneNote.ttf为最终字体文件，OneNote.fcp是FontCreator工程文件。
 msyh_0.ttf、msyh_1.ttf为微软雅黑字体提取文件，OneNote.ttf为最终字体文件，OneNote.fcp是FontCreator工程文件。
 
